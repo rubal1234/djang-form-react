@@ -1,0 +1,7 @@
+.info_div{
+	box-shadow: 0px 16px 48px #00000029;
+	word-break: break-all;
+}
+.name_info,.email_info,.dob_info,.number_info{
+	font-weight: bold;
+}
